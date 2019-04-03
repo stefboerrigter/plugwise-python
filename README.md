@@ -1,6 +1,10 @@
 # PlugwisePy
 
-##Goal
+### Notice
+Since i no longer own any plugwise devices, i stopped working on this codebase.
+Feel free to use it as you like
+
+## Goal
 The goal of this script is rather simple
 parse data read from (local network) adam (hub) and obtain thermostat values that are required
 push the temperature and setpoint to domoticz first
